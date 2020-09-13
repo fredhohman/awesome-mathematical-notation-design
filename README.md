@@ -2,11 +2,11 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-While the [history of mathematical notation](https://en.wikipedia.org/wiki/History_of_mathematical_notation) dates back thousands of years and many of symbols we are familiar were introduced in the 16th and 17th century, the number of advanced mathematical symbols have increased significantly over the past [couple hundred of years](https://en.wikipedia.org/wiki/History_of_mathematical_notation#Symbolic_stage).
+While the [history of mathematical notation](https://en.wikipedia.org/wiki/History_of_mathematical_notation) dates back thousands of years and many of the symbols we are familiar with were introduced in the 16th and 17th century, the number of advanced mathematical symbols have increased significantly over the past [couple hundred of years](https://en.wikipedia.org/wiki/History_of_mathematical_notation#Symbolic_stage).
 Today, the majority of mathematical notation is digitally communicated in TeX or LaTeX, a popular mathematical typesetting system that produces static output.
 But sometimes mathematical notation can be hard to learn, hard to remember, and drag a reader into the details while preventing the communication of some higher-level idea. Can we do better?
 
-Below is an unorganized and incomplete list of links for techniques to help enhance mathematical notation. If you know of other examples, please suggest them!
+Below is an unorganized and incomplete list of links of techniques to help enhance mathematical notation, for example, leveraging Gestalt principles or interactivity. If you know of other examples, please suggest them!
 
 ***
 
@@ -36,3 +36,11 @@ Color and static graphic prototype for elementary math: https://www.reddit.com/r
 * Color and variable replacement for arithmetic programming: http://glench.com/LegibleMathematics/
 * Color and annotation for direct current resistivity problem: https://row1.ca/pixels-and-their-neighbors
 * Blog post with small collection: https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics
+
+## Contributing
+* Please check for duplicates first.
+* Submit a PR with a small justification for the inclusion.
+Thanks for your suggestions!
+
+## License
+MIT
