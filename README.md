@@ -1,1 +1,1 @@
-# accessible-math
+# Awesome Mathematical Notation Design
