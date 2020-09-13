@@ -6,7 +6,7 @@ While the [history of mathematical notation](https://en.wikipedia.org/wiki/Histo
 Today, the majority of mathematical notation is digitally communicated in TeX or LaTeX, a popular mathematical typesetting system that produces static output.
 But sometimes mathematical notation can be hard to learn, hard to remember, and drag a reader into the details while preventing the communication of some higher-level idea. Can we do better?
 
-Below is an unorganized and incomplete list of links of techniques to help enhance mathematical notation, for example, leveraging Gestalt principles or interactivity. If you know of other examples, please suggest them!
+Below is an unorganized and incomplete list of links of *techniques to help enhance mathematical notation*, for example, leveraging Gestalt principles or interactivity. If you know of other examples, please suggest them!
 
 ***
 
@@ -40,6 +40,7 @@ Color and static graphic prototype for elementary math: https://www.reddit.com/r
 ## Contributing
 * Please check for duplicates first.
 * Submit a PR with a small justification for the inclusion.
+
 Thanks for your suggestions!
 
 ## License
