@@ -32,7 +32,7 @@ Below is an unorganized and incomplete list of links of *techniques to help enha
 * Direct manipulation for dynamical systems: http://worrydream.com/#!/InteractiveExplorationOfADynamicalSystem
 * Color and static graphic for visual proofs: https://matheducators.stackexchange.com/questions/27/visual-pythagorean-demonstration
 * Color, graphics, and physicalization for number representation: https://early.khanacademy.org/cantor/
-Color and static graphic prototype for elementary math: https://www.reddit.com/r/math/comments/7zdlfn/what_do_you_think_of_this_math_app_idea/?* st=jdzqrbsz&sh=f7e2fc13
+* Color and static graphic prototype for elementary math: https://www.reddit.com/r/math/comments/7zdlfn/what_do_you_think_of_this_math_app_idea/
 * Color and variable replacement for arithmetic programming: http://glench.com/LegibleMathematics/
 * Color and annotation for direct current resistivity problem: https://row1.ca/pixels-and-their-neighbors
 * Blog post with small collection: https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics
