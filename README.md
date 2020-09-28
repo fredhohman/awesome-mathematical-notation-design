@@ -16,7 +16,7 @@ Below is an unorganized and incomplete list of links of *techniques to help enha
     * https://distill.pub/2017/momentum/
     * https://github.com/distillpub/post--momentum/issues/15
     * https://distill.pub/2019/paths-perspective-on-value-learning/
-* Color, layout, and annotation for differential equation (see thread for more iterations): https://twitter.com/redblobgames/status/1111699048472305664?s=21
+* Color, layout, and annotation for differential equation (see thread for more iterations): https://twitter.com/redblobgames/status/1111699048472305664
 * Emoji for differential equations: https://observablehq.com/@mbostock/predator-and-prey
 * Emoji for differential equations: https://twitter.com/mbostock/status/1112460718723362816
 * Color for differential equations: https://observablehq.com/@hzsteinberg/differential-equations
