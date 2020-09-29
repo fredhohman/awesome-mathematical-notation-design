@@ -28,7 +28,7 @@ Below is an unorganized and incomplete list of links of *techniques to help enha
 * Color and annotation in Mathtype: http://www.dessci.com/en/support/mathtype/tips/annotating.htm
 * Interactive graphics for reactive documents: http://worrydream.com/Tangle/
 * Annotation for one of Maxwell's Equation: https://twitter.com/DynamicWebPaige/status/835340301011152897
-* Interactive graphics for function plotting: https://bengolds.github.io/playbook/
+* Interactive graphics for function plotting: https://www.youtube.com/watch?v=ccBRIswpMzM
 * Direct manipulation for dynamical systems: http://worrydream.com/#!/InteractiveExplorationOfADynamicalSystem
 * Color and static graphic for visual proofs: https://matheducators.stackexchange.com/questions/27/visual-pythagorean-demonstration
 * Color, graphics, and physicalization for number representation: https://early.khanacademy.org/cantor/
