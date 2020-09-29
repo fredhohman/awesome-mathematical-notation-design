@@ -37,6 +37,7 @@ Below is an unorganized and incomplete list of links of *techniques to help enha
 * Color and annotation for direct current resistivity problem: https://row1.ca/pixels-and-their-neighbors
 * Color for continuous prefetch: https://arxiv.org/pdf/2007.07858.pdf
 * Annotation for definition of a derivative: https://lthmath.tumblr.com/post/107722381554/incredibly-useful-take-your-time-to-understand
+* Toggle between different notation expansions and text for Helmholtz equation: https://twitter.com/ljaouen/status/1310849510638264320
 * Blog post with small collection: https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics
 * Research project for on-demand explanations of notation within in a research paper: https://scholarphi.org/
 
@@ -46,6 +47,7 @@ Below is an unorganized and incomplete list of links of *techniques to help enha
 * Submit a PR with a small justification for the inclusion.
 
 Thanks for your suggestions!
+
 
 ## License
 MIT
