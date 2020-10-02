@@ -39,6 +39,7 @@ Below is an unorganized and incomplete list of links of *techniques to help enha
 * Annotation for definition of a derivative: https://lthmath.tumblr.com/post/107722381554/incredibly-useful-take-your-time-to-understand
 * Toggle between different notation expansions and text for Helmholtz equation: https://twitter.com/ljaouen/status/1310849510638264320
 * Generate animated videos with natural language queries for solving equations: https://twitter.com/ShreenabhA/status/1294652394739912704
+* Color and arrow annotations for integrating study results and distributions with text: https://arxiv.org/pdf/2007.14516.pdf
 * Blog post with small collection: https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics
 * Research project for on-demand explanations of notation within in a research paper: https://scholarphi.org/
 
