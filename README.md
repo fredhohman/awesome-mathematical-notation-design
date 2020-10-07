@@ -36,6 +36,7 @@ Below is an unorganized and incomplete list of links of *techniques to help enha
 * Color and variable replacement for arithmetic programming: http://glench.com/LegibleMathematics/
 * Color and annotation for direct current resistivity problem: https://row1.ca/pixels-and-their-neighbors
 * Color for continuous prefetch: https://arxiv.org/pdf/2007.07858.pdf
+* Color for equations in R: https://twitter.com/andrewheiss/status/1312948770032807936, https://github.com/r-for-educators/flair
 * Annotation for definition of a derivative: https://lthmath.tumblr.com/post/107722381554/incredibly-useful-take-your-time-to-understand
 * Toggle between different notation expansions and text for Helmholtz equation: https://twitter.com/ljaouen/status/1310849510638264320
 * Generate animated videos with natural language queries for solving equations: https://twitter.com/ShreenabhA/status/1294652394739912704
