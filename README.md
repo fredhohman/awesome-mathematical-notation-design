@@ -36,10 +36,15 @@ Below is an unorganized and incomplete list of links of *techniques to help enha
 * Color and variable replacement for arithmetic programming: http://glench.com/LegibleMathematics/
 * Color and annotation for direct current resistivity problem: https://row1.ca/pixels-and-their-neighbors
 * Color for continuous prefetch: https://arxiv.org/pdf/2007.07858.pdf
+* Color for equations in R: https://twitter.com/andrewheiss/status/1312948770032807936, https://github.com/r-for-educators/flair
 * Color and interactive number scrubbers for energy consumption in machine learning: https://arxiv.org/pdf/2103.16435.pdf
 * Color for the rendering equation: https://twitter.com/artsiom_s/status/1373464655935471616
 * Color for the parts of a learning problem: https://twitter.com/mdekstrand/status/1373400822470504451
 * Annotation for definition of a derivative: https://lthmath.tumblr.com/post/107722381554/incredibly-useful-take-your-time-to-understand
+* Toggle between different notation expansions and text for Helmholtz equation: https://twitter.com/ljaouen/status/1310849510638264320
+* Generate animated videos with natural language queries for solving equations: https://twitter.com/ShreenabhA/status/1294652394739912704
+* Color and arrow annotations for integrating study results and distributions with text: https://arxiv.org/pdf/2007.14516.pdf
+* Color and caption for the angle between two vectors: https://twitter.com/andrew_n_carr/status/1346172166077726720
 * Blog post with small collection: https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics
 * Research project for on-demand explanations of notation within in a research paper: https://scholarphi.org/
 
@@ -49,6 +54,7 @@ Below is an unorganized and incomplete list of links of *techniques to help enha
 * Submit a PR with a small justification for the inclusion.
 
 Thanks for your suggestions!
+
 
 ## License
 MIT
