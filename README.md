@@ -45,6 +45,7 @@ Below is an unorganized and incomplete list of links of *techniques to help enha
 * Generate animated videos with natural language queries for solving equations: https://twitter.com/ShreenabhA/status/1294652394739912704
 * Color and arrow annotations for integrating study results and distributions with text: https://arxiv.org/pdf/2007.14516.pdf
 * Color and caption for the angle between two vectors: https://twitter.com/andrew_n_carr/status/1346172166077726720
+* Color for concepts in calculus: https://intuitiveexplanations.com/assets/CalculusIntuitiveExplanations.pdf
 * Blog post with small collection: https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics
 * Research project for on-demand explanations of notation within in a research paper: https://scholarphi.org/
 
