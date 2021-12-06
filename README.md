@@ -22,6 +22,7 @@ Below is an unorganized and incomplete list of links of *techniques to help enha
 * Color for differential equations: https://observablehq.com/@hzsteinberg/differential-equations
 * Color for teaching array programming: https://jalammar.github.io/visual-numpy/
 * Color for generalized additive models: https://fredhohman.com/papers/19-gamut-chi.pdf
+* Color for editing generalized additive models: https://interpret.ml/gam-changer/
 * Color and diagram for distance formula: https://towardsdatascience.com/importance-of-distance-metrics-in-machine-learning-modelling-e51395ffe60d
 * Color, annotation, and interactive graphics for explain convolutional neural network operations: https://poloclub.github.io/cnn-explainer/
 * Color and interactive graphics (multiple posts): http://setosa.io/ev/
