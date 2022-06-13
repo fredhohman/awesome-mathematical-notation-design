@@ -94,7 +94,6 @@
   
 - description: Function plotting
   link: https://www.youtube.com/watch?v=ccBRIswpMzM
-  link: https://github.com/bengolds/playbook
   type: example
   tags:
     - interactive graphics
@@ -117,7 +116,6 @@
   type: example
   tags:
     - color
-    - graphics
     - physicalization
   
 - description: Elementary math
@@ -150,7 +148,6 @@
   
 - description: Equations in R
   link: https://twitter.com/andrewheiss/status/1312948770032807936
-  link: https://github.com/r-for-educators/flair
   type: example
   tags:
     - color
@@ -285,6 +282,9 @@
   type: paper
   tags:
     - research
+    - color
+    - annotation
+    - layout
 
 - description: PDEs and volume rendering thread
   link: https://twitter.com/keenanisalive/status/1526156301994180609
@@ -292,3 +292,34 @@
   tags:
     - color
     - annotation
+
+- description: Communicating with interactive articles
+  link: https://distill.pub/2020/communicating-with-interactive-articles/
+  type: paper
+  tags:
+    - research
+    - color
+    - annotation
+    - interactive graphics
+
+- description: Why momentum really works
+  link: https://distill.pub/2017/momentum/
+  type: article
+  tags:
+    - annotation
+    - layout
+    - opacity
+
+- description: Designs decisions for Distill equations
+  link: https://github.com/distillpub/post--momentum/issues/15
+  type: example
+  tags:
+    - color
+    - annotation
+
+- description: Paths perspective on value learning
+  link: https://distill.pub/2019/paths-perspective-on-value-learning/
+  type: example
+  tags:
+    - annotation
+    - static graphics
