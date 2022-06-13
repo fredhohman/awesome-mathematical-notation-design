@@ -1,0 +1,211 @@
+@charset "utf-8";
+
+$mobile: 768px;
+
+$black-90: rgba(0,0,0,.9);
+$black-80: rgba(0,0,0,.8);
+$black-70: rgba(0,0,0,.7);
+$black-60: rgba(0,0,0,.6);
+$black-50: rgba(0,0,0,.5);
+$black-40: rgba(0,0,0,.4);
+$black-30: rgba(0,0,0,.3);
+$black-20: rgba(0,0,0,.2);
+$black-10: rgba(0,0,0,.1);
+$black-05: rgba(0,0,0,.05);
+$black-025: rgba(0,0,0,.025);
+$black-0125: rgba(0,0,0,.0125);
+
+$white-90: rgba(255,255,255,.9);
+$white-80: rgba(255,255,255,.8);
+$white-70: rgba(255,255,255,.7);
+$white-60: rgba(255,255,255,.6);
+$white-50: rgba(255,255,255,.5);
+$white-40: rgba(255,255,255,.4);
+$white-30: rgba(255,255,255,.3);
+$white-20: rgba(255,255,255,.2);
+$white-10: rgba(255,255,255,.1);
+$white-05: rgba(255,255,255,.05);
+$white-025: rgba(255,255,255,.025);
+$white-0125: rgba(255,255,255,.0125);
+
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    font-family: -apple-system, 'SF Pro Display', Helvetica, sans-serif;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    // margin: auto;
+    background:#fefefe;
+    font-size: 20px;
+    line-height: 1.5;
+    color: rgb(28, 28, 30);
+
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+main {
+    max-width: 40em;
+    margin: auto;
+}
+
+@media screen and (max-width: $mobile) {
+    body {
+      font-size: 16px;
+      padding-top: 0.75em;
+      padding-bottom: 0.75em;
+      padding-left: 1em;
+      padding-right: 1em;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    margin-bottom: 0;
+    color: rgb(28, 28, 30);
+}
+
+h1 {
+    font-size: 1.85em;
+    margin-top: 0rem;
+}
+
+h2 {
+    margin-top: 1em;
+    font-size: 1.25em;
+}
+
+hr {
+    height: 0.05em;
+    border: 0;
+    color: #CCCCCC;
+    background-color: #CCCCCC;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+p, blockquote, ul, ol, dl, li, table, pre {
+    margin: 0.5em 0;
+    // line-height: 1.5em;
+}
+
+a, a:visited {
+    color: rgb(175, 82, 222);
+    background-color: inherit;
+    text-decoration: none;
+}
+
+ul, ol {
+    // padding-left: 0;
+    line-height: 1;
+}
+
+img {
+	max-width: 100%;
+}
+
+.intro-link {
+    font-family: monospace;
+    font-size: 1rem;
+}
+
+.example-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 0.75rem;
+    grid-row-gap: 0.75rem;
+    padding-top: 0.5rem;
+}
+
+.example {
+    background-color: $black-025;
+    padding: 1rem;
+    border-radius: 0.75rem;
+    height: 10rem;
+    line-height: 1.25rem;
+    transition: all .2s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.example-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: $black-80;
+    margin: 0;
+    padding: 0;
+}
+
+.example:hover {
+    background-color: $black-05;
+    transform: scale(1.03)
+}
+
+.example-image {
+    // height: 1rem;
+}
+
+.example-image > img {
+    border-radius: 0.5rem;
+    border: 1px solid $black-05;
+    height: 4rem;
+}
+
+.example-tag-wrapper {
+    display: flex;
+    gap: 0.2rem;
+    flex-wrap: wrap;
+}
+
+.example-tag {
+    color: $black-70;
+    font-size: 0.6rem;
+    font-weight: 500;
+    background-color: $black-05;
+    border-radius: 0.25rem;
+    padding: 0.15rem 0.4rem 0.15rem 0.4rem;
+    font-family: monospace;
+}
+
+.example-tag-link {
+    color:rgb(175, 82, 222);
+    font-weight: 500;
+    background-color: none;
+    padding-left: 1rem;
+}
+
+@mixin word-wrap() {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+  }
+
+.example-link {
+    @include word-wrap();
+    font-size: 0.75rem;
+}
+
+@media screen and (max-width: $mobile) {
+    .example-wrapper {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .example {
+        height: 7rem;
+    }
+}

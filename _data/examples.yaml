@@ -1,0 +1,237 @@
+- description: Colorized math equations
+  link: https://betterexplained.com/articles/colorized-math-equations/
+  type: article
+  tags: 
+    - color
+    - annotation
+  
+- description: Differential equation for rate of change
+  link: https://twitter.com/redblobgames/status/1111699048472305664
+  type: example
+  tags:
+    - color
+    - layout
+    - annotation
+
+- description: Predator and prey relationships
+  link: https://observablehq.com/@mbostock/predator-and-prey
+  type: article
+  tags:
+    - emoji
+
+- description: Predator and prey differential equation
+  link: https://twitter.com/mbostock/status/1112460718723362816
+  type: example
+  tags:
+    - emoji
+
+- description: Differential equations
+  link: https://observablehq.com/@hzsteinberg/differential-equations
+  type: article
+  tags:
+    - color
+    - animation
+
+- description: Teaching array programming
+  link: https://jalammar.github.io/visual-numpy/
+  type: example
+  tags:
+    - color
+    - code
+
+- description: Generalized additive models
+  link: https://fredhohman.com/papers/19-gamut-chi.pdf
+  type: example
+  tags:
+    - color
+
+- description: Editing generalized additive models
+  link: https://interpret.ml/gam-changer/
+  type: example
+  tags:
+    - color
+
+- description: Distance formula
+  link: https://towardsdatascience.com/importance-of-distance-metrics-in-machine-learning-modelling-e51395ffe60d
+  type: example
+  tags:
+    - color
+    - diagram
+
+- description: Convolutional neural network operations
+  link: https://poloclub.github.io/cnn-explainer/
+  type: example
+  tags:
+    - color
+    - annotation
+    - interactive graphics
+  
+- description: Eigenvectors and eigenvalues
+  link: https://setosa.io/ev/eigenvectors-and-eigenvalues/
+  type: example
+  tags: 
+    - color
+    - interactive graphics
+  
+- description: Mathtype
+  link: https://docs.wiris.com/mathtype/en/mathtype-office-tools/support/mathtype-tips---tricks/tips-to-use-with-microsoft-word.html#using-mathtype-to-annotate-equations
+  type: example
+  tags:
+    - color
+    - annotation
+  
+- description: Reactive documents
+  link: http://worrydream.com/Tangle/
+  type: example
+  tags:
+    - interactive graphics
+  
+- description: One of Maxwell's Equation
+  link: https://twitter.com/DynamicWebPaige/status/835340301011152897
+  type: example
+  tags:
+    - annotation
+  
+- description: Function plotting
+  link: https://www.youtube.com/watch?v=ccBRIswpMzM
+  link: https://github.com/bengolds/playbook
+  type: example
+  tags:
+    - interactive graphics
+  
+- description: Dynamical systems
+  link: http://worrydream.com/#!/InteractiveExplorationOfADynamicalSystem
+  type: example
+  tags:
+    - direct manipulation
+  
+- description: Visual proofs
+  link: https://matheducators.stackexchange.com/questions/27/visual-pythagorean-demonstration
+  type: example
+  tags:
+    - color
+    - static graphic
+  
+- description: Number representation
+  link: https://early.khanacademy.org/cantor/
+  type: example
+  tags:
+    - color
+    - graphics
+    - physicalization
+  
+- description: Elementary math
+  link: https://www.reddit.com/r/math/comments/7zdlfn/what_do_you_think_of_this_math_app_idea/
+  type: example
+  broken-link: true
+  tags:
+    - color
+    - static graphic prototype
+  
+- description: Legible Mathematics
+  link: http://glench.com/LegibleMathematics/
+  type: article
+  tags:
+    - color
+    - variable replacement
+  
+- description: "Pixels and their neighbors: finite volume"
+  link: https://row1.ca/pixels-and-their-neighbors
+  type: article
+  tags:
+    - color
+    - annotation
+  
+- description: Continuous prefetch
+  link: https://arxiv.org/pdf/2007.07858.pdf
+  type: example
+  tags:
+    - color
+  
+- description: Equations in R
+  link: https://twitter.com/andrewheiss/status/1312948770032807936
+  link: https://github.com/r-for-educators/flair
+  type: example
+  tags:
+    - color
+  
+- description: Energy consumption in machine learning
+  link: https://arxiv.org/pdf/2103.16435.pdf
+  type: example
+  tags:
+    - color
+    - number scrubber
+
+- description: The rendering equation
+  link: https://twitter.com/artsiom_s/status/1373464655935471616
+  type: example
+  tags:
+    - color
+
+- description: The parts of a learning problem
+  link: https://twitter.com/mdekstrand/status/1373400822470504451
+  type: example
+  tags:
+    - color
+
+- description: Definition of a derivative
+  link: https://lthmath.tumblr.com/post/107722381554/incredibly-useful-take-your-time-to-understand
+  type: example
+  tags:
+    - annotation
+
+- description: Helmholtz equation
+  link: https://twitter.com/ljaouen/status/1310849510638264320
+  type: example
+  tags:
+    - notation expansions
+    - text
+
+- description: Generating animated videos with natural language queries
+  link: https://twitter.com/ShreenabhA/status/1294652394739912704
+  type: example
+  tags:
+    - annotation
+
+- description: Integrating study results and distributions with text
+  link: https://arxiv.org/pdf/2007.14516.pdf
+  type: example
+  tags:
+    - color
+    - arrow annotations
+
+- description: Angle between two vectors
+  link: https://twitter.com/andrew_n_carr/status/1346172166077726720
+  type: example
+  tags:
+    - color
+    - caption
+
+- description: Concepts in calculus
+  link: https://intuitiveexplanations.com/assets/CalculusIntuitiveExplanations.pdf
+  type: example
+  tags:
+    - color
+    - annotation
+
+- description: Neural network backpropagation
+  link: https://xnought.github.io/backprop-explainer/
+  type: example
+  tags:
+    - color
+    - interactive graphics
+
+- description: Visual explanations of mathematics
+  type: collection
+  link: https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics
+  tags:
+    - color
+    - annotation
+    - emoji
+  
+- description: On-demand explanations of notation within in a research paper
+  link: https://scholarphi.org/
+  image: images/paper-1.png
+  type: paper
+  tags:
+    - annotation

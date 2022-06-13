@@ -1,0 +1,47 @@
+## Research Papers
+
+Academic papers on augmenting math notation.
+
+<div class="example-wrapper">
+{% for example in site.data.examples %}
+{% if example.type == "paper" %}
+{% include example.html example=example %}
+{% endif %}
+{% endfor %}
+</div>
+
+## Collections
+
+Meta-collections of math notation examples. 
+
+<div class="example-wrapper">
+{% for example in site.data.examples %}
+{% if example.type == "collection" %}
+{% include example.html example=example %}
+{% endif %}
+{% endfor %}
+</div>
+
+## Articles
+
+Blog posts, explainers, and articles that use designed notation throughout.
+
+<div class="example-wrapper">
+{% for example in site.data.examples %}
+{% if example.type == "article" %}
+{% include example.html example=example %}
+{% endif %}
+{% endfor %}
+</div>
+
+## Examples
+
+Other singular examples and explorations.
+
+<div class="example-wrapper">
+{% for example in site.data.examples %}
+{% if example.type == "example" %}
+{% include example.html example=example %}
+{% endif %}
+{% endfor %}
+</div>
