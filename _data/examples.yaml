@@ -241,6 +241,7 @@
   type: example
   tags:
     - color
+    - code
 
 - description: Linking informal and formal statements
   link: https://twitter.com/wcrichton/status/1408277739438628867?s=12
@@ -254,5 +255,13 @@
   type: example
   tags:
     - color
+    - interactive graphics
+
+- description: Triangle solver
+  link: https://acegikmo.com/trianglesolver/
+  type: example
+  tags:
+    - color
+    - code
     - interactive graphics
 
