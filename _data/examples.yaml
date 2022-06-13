@@ -234,6 +234,7 @@
   image: images/paper-1.png
   type: paper
   tags:
+    - research
     - annotation
 
 - description: Summation and product notation in code
@@ -279,3 +280,8 @@
     - color
     - annotation
 
+- description: Math augmentations
+  link: https://andrewhead.info/assets/pdf/augmented-formulas.pdf
+  type: paper
+  tags:
+    - research
