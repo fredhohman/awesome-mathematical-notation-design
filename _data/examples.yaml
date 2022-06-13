@@ -285,3 +285,10 @@
   type: paper
   tags:
     - research
+
+- description: PDEs and volume rendering thread
+  link: https://twitter.com/keenanisalive/status/1526156301994180609
+  type: example
+  tags:
+    - color
+    - annotation
