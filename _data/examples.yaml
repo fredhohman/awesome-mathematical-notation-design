@@ -241,3 +241,11 @@
   type: example
   tags:
     - color
+
+- description: Linking informal and formal statements
+  link: https://twitter.com/wcrichton/status/1408277739438628867?s=12
+  type: example
+  tags:
+    - color
+    - annotation
+
