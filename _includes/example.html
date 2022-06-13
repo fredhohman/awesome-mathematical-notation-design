@@ -1,0 +1,17 @@
+<a href="{{ example.link }}">
+    <div class="example">
+        <div style="display:flex; flex-direction:row; justify-content: space-between;">
+            <p class="example-title">{{ example.description }}</p>
+            <!-- <p class="example-link">{{ example.link }}</p> -->
+            <div class="example-tag-link">↗</div>
+        </div>
+        <!-- <div class="example-image">
+            <img src="{{ example.image }}">
+        </div> -->
+        <div class="example-tag-wrapper">
+            {% for tag in example.tags %}
+                <div class="example-tag">{{ tag }}</div>
+            {% endfor %}
+        </div>
+    </div>
+</a>

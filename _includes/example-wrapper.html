@@ -1,0 +1,44 @@
+{% assign papers = site.data.examples | where: "type", "paper" %}
+{% assign collections = site.data.examples | where: "type", "collection" %}
+{% assign articles = site.data.examples | where: "type", "article" %}
+{% assign examples = site.data.examples | where: "type", "example" %}
+
+## Research Papers <span class="type-number">({{ papers | size }} papers)</span>
+
+Academic papers on augmenting math notation.
+
+<div class="example-wrapper">
+{% for example in papers %}
+{% include example.html example=example %}
+{% endfor %}
+</div>
+
+## Collections <span class="type-number">({{ collections | size }} collections)</span>
+
+Meta-collections of math notation examples. 
+
+<div class="example-wrapper">
+{% for example in collections %}
+{% include example.html example=example %}
+{% endfor %}
+</div>
+
+## Articles <span class="type-number">({{ articles | size }} articles)</span>
+
+Blog posts, explainers, and articles that use designed notation throughout.
+
+<div class="example-wrapper">
+{% for example in articles %}
+{% include example.html example=example %}
+{% endfor %}
+</div>
+
+## Examples <span class="type-number">({{ examples | size }} examples)</span>
+
+Other singular examples and explorations.
+
+<div class="example-wrapper">
+{% for example in examples %}
+{% include example.html example=example %}
+{% endfor %}
+</div>

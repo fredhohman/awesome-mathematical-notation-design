@@ -1,0 +1,11 @@
+title: Awesome Mathematical Notation Design
+description: >-
+  List of links of techniques to help enhance mathematical notation
+baseurl: ""
+url: ""
+twitter_username: fredhohman
+github_username:  fredhohman
+
+# Build settings
+plugins:
+  - jekyll-feed
