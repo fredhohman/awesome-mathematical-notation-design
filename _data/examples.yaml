@@ -249,3 +249,10 @@
     - color
     - annotation
 
+- description: Geometry line segement problem
+  link: https://twitter.com/sliminality/status/1408185560112398339?s=12
+  type: example
+  tags:
+    - color
+    - interactive graphics
+
