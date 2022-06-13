@@ -199,6 +199,12 @@ img {
     font-size: 0.75rem;
 }
 
+.type-number {
+    color: $black-30;
+    font-weight: 400;
+    font-size: 1.15rem;
+}
+
 @media screen and (max-width: $mobile) {
     .example-wrapper {
         display: grid;
