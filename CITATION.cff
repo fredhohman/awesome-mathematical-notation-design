@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hohman"
+  given-names: "fred"
+title: "Awesome Mathematical Notation Design"
+version: 1.0.0
+date-released: 2020-09-13
+url: "https://github.com/fredhohman/awesome-mathematical-notation-design"
