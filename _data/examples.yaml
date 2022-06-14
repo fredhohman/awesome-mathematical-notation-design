@@ -1,3 +1,29 @@
+- description: Math augmentations
+  where: ACM CHI
+  link: https://andrewhead.info/assets/pdf/augmented-formulas.pdf
+  type: paper
+  tags:
+    - color
+    - annotation
+    - layout
+
+- description: Communicating with interactive articles
+  where: Distill
+  link: https://distill.pub/2020/communicating-with-interactive-articles/
+  type: paper
+  tags:
+    - color
+    - annotation
+    - interactive graphics
+
+- description: On-demand explanations of notation within in a research paper
+  where: ACM CHI
+  link: https://scholarphi.org/
+  image: images/paper-1.png
+  type: paper
+  tags:
+    - annotation
+
 - description: Colorized math equations
   link: https://betterexplained.com/articles/colorized-math-equations/
   type: article
@@ -225,14 +251,6 @@
     - color
     - annotation
     - emoji
-  
-- description: On-demand explanations of notation within in a research paper
-  link: https://scholarphi.org/
-  image: images/paper-1.png
-  type: paper
-  tags:
-    - research
-    - annotation
 
 - description: Summation and product notation in code
   link: https://twitter.com/freyaholmer/status/1436696408506212353?s=12
@@ -277,30 +295,12 @@
     - color
     - annotation
 
-- description: Math augmentations
-  link: https://andrewhead.info/assets/pdf/augmented-formulas.pdf
-  type: paper
-  tags:
-    - research
-    - color
-    - annotation
-    - layout
-
 - description: PDEs and volume rendering thread
   link: https://twitter.com/keenanisalive/status/1526156301994180609
   type: example
   tags:
     - color
     - annotation
-
-- description: Communicating with interactive articles
-  link: https://distill.pub/2020/communicating-with-interactive-articles/
-  type: paper
-  tags:
-    - research
-    - color
-    - annotation
-    - interactive graphics
 
 - description: Why momentum really works
   link: https://distill.pub/2017/momentum/

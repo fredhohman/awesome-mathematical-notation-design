@@ -128,7 +128,7 @@ img {
     background-color: $black-025;
     padding: 1rem;
     border-radius: 0.75rem;
-    height: 10rem;
+    height: 12rem;
     line-height: 1.25rem;
     transition: all .2s ease-in-out;
     display: flex;
@@ -142,6 +142,14 @@ img {
     color: $black-80;
     margin: 0;
     padding: 0;
+}
+
+.example-where {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: $black-60;
+    // margin: 0;
+    // padding: 0;
 }
 
 .example:hover {
@@ -212,6 +220,6 @@ img {
     }
 
     .example {
-        height: 7rem;
+        height: 8rem;
     }
 }
