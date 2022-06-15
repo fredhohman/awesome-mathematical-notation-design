@@ -1,7 +1,7 @@
 {% assign papers = site.data.examples | where: "type", "paper" %}
 {% assign collections = site.data.examples | where: "type", "collection" %}
-{% assign articles = site.data.examples | where: "type", "article" %}
-{% assign examples = site.data.examples | where: "type", "example" %}
+{% assign articles = site.data.examples | where: "type", "article" | sort: "title" %}
+{% assign examples = site.data.examples | where: "type", "example" | sort: "title" %}
 
 ## Research Papers <span class="type-number">({{ papers | size }} papers)</span>
 
