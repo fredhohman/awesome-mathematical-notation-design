@@ -35,11 +35,32 @@
   publication: Better Explained
   year: 2017
   link: https://betterexplained.com/articles/colorized-math-equations/
-  type: article
+  type: collection
   tags: 
     - color
     - annotation
-  
+
+  - title: Equation formatting
+  author: Amit Patel
+  publication: Red Blob Games
+  year: 2019
+  link: https://www.redblobgames.com/x/1913-equation-formatting/
+  type: collection
+  tags:
+    - color
+    - annotation
+
+- title: Visual explanations of mathematics
+  author: Matt Hall
+  publication: Agile Scientific
+  year: 2020
+  type: collection
+  link: https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics
+  tags:
+    - color
+    - annotation
+    - emoji
+
 - title: Differential equation for rate of change
   author: Amit Patel
   publication: Twitter
@@ -349,17 +370,6 @@
     - color
     - interactive graphics
 
-- title: Visual explanations of mathematics
-  author: Matt Hall
-  publication: Agile Scientific
-  year: 2020
-  type: collection
-  link: https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics
-  tags:
-    - color
-    - annotation
-    - emoji
-
 - title: Summation and product notation in code
   author: Freya Holmér
   publication: Twitter
@@ -407,16 +417,6 @@
   year: 2022
   link: https://twitter.com/sibinmohan/status/1480583840858996743
   type: example
-  tags:
-    - color
-    - annotation
-
-- title: Equation formatting
-  author: Amit Patel
-  publication: Red Blob Games
-  year: 2019
-  link: https://www.redblobgames.com/x/1913-equation-formatting/
-  type: collection
   tags:
     - color
     - annotation
