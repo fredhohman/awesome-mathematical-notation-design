@@ -1,5 +1,7 @@
-- description: Math augmentations
-  where: ACM CHI
+- title: Math augmentations
+  author: Andrew Head, Amber Xie, and Marti A. Hearst
+  publication: ACM CHI
+  year: 2022
   link: https://andrewhead.info/assets/pdf/augmented-formulas.pdf
   type: paper
   tags:
@@ -7,8 +9,10 @@
     - annotation
     - layout
 
-- description: Communicating with interactive articles
-  where: Distill
+- title: Communicating with interactive articles
+  author: Fred Hohman, Matthew Conlen, Jeffrey Heer, Duen Horng (Polo) Chau
+  publication: Distill
+  year: 2020
   link: https://distill.pub/2020/communicating-with-interactive-articles/
   type: paper
   tags:
@@ -16,22 +20,30 @@
     - annotation
     - interactive graphics
 
-- description: On-demand explanations of notation within in a research paper
-  where: ACM CHI
+- title: On-demand explanations of notation within in a research paper
+  author: Andrew Head, et al.
+  publication: ACM CHI
+  year: 2021
   link: https://scholarphi.org/
   image: images/paper-1.png
   type: paper
   tags:
     - annotation
 
-- description: Colorized math equations
+- title: Colorized math equations
+  author: Kalid Azad
+  publication: Better Explained
+  year: 2017
   link: https://betterexplained.com/articles/colorized-math-equations/
   type: article
   tags: 
     - color
     - annotation
   
-- description: Differential equation for rate of change
+- title: Differential equation for rate of change
+  author: Amit Patel
+  publication: Twitter
+  year: 2019
   link: https://twitter.com/redblobgames/status/1111699048472305664
   type: example
   tags:
@@ -39,52 +51,76 @@
     - layout
     - annotation
 
-- description: Predator and prey relationships
+- title: Predator and prey relationships
+  author: Mike Bostock
+  publication: Observable
+  year: 2018
   link: https://observablehq.com/@mbostock/predator-and-prey
   type: article
   tags:
     - emoji
 
-- description: Predator and prey differential equation
+- title: Predator and prey differential equation
+  author: 3blue1brown
+  publication: Twitter
+  year: 2019
   link: https://twitter.com/mbostock/status/1112460718723362816
   type: example
   tags:
     - emoji
 
-- description: Differential equations
+- title: Differential equations
+  author: hzsteinberg
+  publication: Observable
+  year: 2019
   link: https://observablehq.com/@hzsteinberg/differential-equations
   type: article
   tags:
     - color
     - animation
 
-- description: Teaching array programming
+- title: Teaching array programming
+  author: Jay Alammar
+  publication: Personal blog
+  year: 2019
   link: https://jalammar.github.io/visual-numpy/
   type: example
   tags:
     - color
     - code
 
-- description: Generalized additive models
+- title: Generalized additive models
+  author: Fred Hohman, et al.
+  publication: ACM CHI
+  year: 2019
   link: https://fredhohman.com/papers/19-gamut-chi.pdf
   type: example
   tags:
     - color
 
-- description: Editing generalized additive models
+- title: Editing generalized additive models
+  author: Zijie J. Wang, et al.
+  publication: Research2Clinics at NeurIPS
+  year: 2021
   link: https://interpret.ml/gam-changer/
   type: example
   tags:
     - color
 
-- description: Distance formula
+- title: Distance formula
+  author: Natasha Sharma
+  publication: Towards Data Science
+  year: 2019
   link: https://towardsdatascience.com/importance-of-distance-metrics-in-machine-learning-modelling-e51395ffe60d
   type: example
   tags:
     - color
     - diagram
 
-- description: Convolutional neural network operations
+- title: Convolutional neural network operations
+  author: Zijie J. Wang, et al.
+  publication: IEEE TVCG
+  year: 2021
   link: https://poloclub.github.io/cnn-explainer/
   type: example
   tags:
@@ -92,59 +128,86 @@
     - annotation
     - interactive graphics
   
-- description: Eigenvectors and eigenvalues
+- title: Eigenvectors and eigenvalues
+  author: Victor Powell and Lewis Lehe
+  publication: Explained Visually
+  year: 2015
   link: https://setosa.io/ev/eigenvectors-and-eigenvalues/
   type: example
   tags: 
     - color
     - interactive graphics
   
-- description: Mathtype
+- title: Mathtype equation annotation
+  author:
+  publication: MathType
+  year: 
   link: https://docs.wiris.com/mathtype/en/mathtype-office-tools/support/mathtype-tips---tricks/tips-to-use-with-microsoft-word.html#using-mathtype-to-annotate-equations
   type: example
   tags:
     - color
     - annotation
   
-- description: Reactive documents
+- title: "Tangle: Explorable explanations made easy"
+  author: Bret Victor
+  publication: worrydream
+  year: 2013
   link: http://worrydream.com/Tangle/
   type: example
   tags:
     - interactive graphics
   
-- description: One of Maxwell's Equation
+- title: A student's guide to maxwell's equations
+  author: Daniel Fleisch
+  publication: Cambridge University Press
+  year: 2008
   link: https://twitter.com/DynamicWebPaige/status/835340301011152897
   type: example
   tags:
     - annotation
   
-- description: Function plotting
+- title: Function plotting
+  author: Ben Goldsmith
+  publication: YouTube
+  year: 2017
   link: https://www.youtube.com/watch?v=ccBRIswpMzM
   type: example
   tags:
     - interactive graphics
   
-- description: Dynamical systems
+- title: Interactive exploration of a dynamical system
+  author: Bret Victor
+  publication: worrydream
+  year: 2011
   link: http://worrydream.com/#!/InteractiveExplorationOfADynamicalSystem
   type: example
   tags:
     - direct manipulation
   
-- description: Visual proofs
+- title: Visual Pythagorean demonstration and proofs
+  author: Daryl
+  publication: StackExchange
+  year: 2014
   link: https://matheducators.stackexchange.com/questions/27/visual-pythagorean-demonstration
   type: example
   tags:
     - color
     - static graphic
   
-- description: Number representation
+- title: "Numbers at play: Dynamic toys make the invisible visible"
+  author: Scott Farrar, May-Li Khoe, Andy Matuschak
+  publication: Khan Academy
+  year: 2017
   link: https://early.khanacademy.org/cantor/
   type: example
   tags:
     - color
     - physicalization
   
-- description: Elementary math
+- title: Elementary math
+  author: grundt
+  publication: Reddit
+  year: 2018
   link: https://www.reddit.com/r/math/comments/7zdlfn/what_do_you_think_of_this_math_app_idea/
   type: example
   broken-link: true
@@ -152,99 +215,144 @@
     - color
     - static graphic prototype
   
-- description: Legible Mathematics
+- title: Legible mathematics
+  author: Glen Chiacchieri
+  publication: Personal blog
+  year: 2014
   link: http://glench.com/LegibleMathematics/
   type: article
   tags:
     - color
     - variable replacement
   
-- description: "Pixels and their neighbors: finite volume"
+- title: "Pixels and their neighbors: Finite volume"
+  author: Rowan Cockett, Lindsey Heagy, Doug Oldenburg
+  publication: The Leading Edge
+  year: 2016
   link: https://row1.ca/pixels-and-their-neighbors
   type: article
   tags:
     - color
     - annotation
   
-- description: Continuous prefetch
+- title: Continuous prefetch
+  author: Haneen Mohammed, Ziyun Wei, Eugene Wu, Ravi Netravali
+  publication: VLDB
+  year: 2020
   link: https://arxiv.org/pdf/2007.07858.pdf
   type: example
   tags:
     - color
   
-- description: Equations in R
+- title: Equations in R
+  author: Andrew Heiss
+  publication: Twitter
+  year: 2020
   link: https://twitter.com/andrewheiss/status/1312948770032807936
   type: example
   tags:
     - color
   
-- description: Energy consumption in machine learning
+- title: Energy consumption in machine learning
+  author: Omar Shaikh, et al.
+  publication: ACH CHI LBW
+  year: 2021
   link: https://arxiv.org/pdf/2103.16435.pdf
   type: example
   tags:
     - color
     - number scrubber
 
-- description: The rendering equation
+- title: The rendering equation
+  author: Artsiom Sanakoyeu
+  publication: Twitter
+  year: 2021
   link: https://twitter.com/artsiom_s/status/1373464655935471616
   type: example
   tags:
     - color
 
-- description: The parts of a learning problem
+- title: The parts of a learning problem
+  author: Michael Ekstrand
+  publication: Twitter
+  year: 2021
   link: https://twitter.com/mdekstrand/status/1373400822470504451
   type: example
   tags:
     - color
 
-- description: Definition of a derivative
+- title: Definition of a derivative
+  author: Life Through a Mathematician's Eyes
+  publication: Tumblr
+  year: 2015
   link: https://lthmath.tumblr.com/post/107722381554/incredibly-useful-take-your-time-to-understand
   type: example
   tags:
     - annotation
 
-- description: Helmholtz equation
+- title: Helmholtz equation
+  author: Luc Jaouen
+  publication: Twitter
+  year: 2020
   link: https://twitter.com/ljaouen/status/1310849510638264320
   type: example
   tags:
     - notation expansions
     - text
 
-- description: Generating animated videos with natural language queries
+- title: Generating animated videos with natural language queries
+  author: Shreenabh Agrawal
+  publication: Magnum
+  year: 2020
   link: https://twitter.com/ShreenabhA/status/1294652394739912704
   type: example
   tags:
     - annotation
 
-- description: Integrating study results and distributions with text
+- title: Integrating study results and distributions with text
+  author: Alex Kale, Matthew Kay, Jessica Hullman
+  publication: IEEE VIS
+  year: 2020
   link: https://arxiv.org/pdf/2007.14516.pdf
   type: example
   tags:
     - color
     - arrow annotations
 
-- description: Angle between two vectors
+- title: Angle between two vectors
+  author: Andrew Carr
+  publication: Twitter
+  year: 2021
   link: https://twitter.com/andrew_n_carr/status/1346172166077726720
   type: example
   tags:
     - color
     - caption
 
-- description: Concepts in calculus
+- title: Concepts in calculus
+  author: Radon Rosborough
+  publication: Intuitive Explanations
+  year: 2015
   link: https://intuitiveexplanations.com/assets/CalculusIntuitiveExplanations.pdf
   type: example
   tags:
     - color
     - annotation
 
-- description: Neural network backpropagation
+- title: Neural network backpropagation
+  author: Donald Bertucci and Minsuk Kahng
+  publication: VISxAI at IEEE VIS
+  year: 2021
   link: https://xnought.github.io/backprop-explainer/
   type: example
   tags:
     - color
     - interactive graphics
 
-- description: Visual explanations of mathematics
+- title: Visual explanations of mathematics
+  author: Matt Hall
+  publication: Agile Scientific
+  year: 2020
   type: collection
   link: https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics
   tags:
@@ -252,28 +360,40 @@
     - annotation
     - emoji
 
-- description: Summation and product notation in code
+- title: Summation and product notation in code
+  author: Freya Holmér
+  publication: Twitter
+  year: 2021
   link: https://twitter.com/freyaholmer/status/1436696408506212353?s=12
   type: example
   tags:
     - color
     - code
 
-- description: Linking informal and formal statements
+- title: Linking informal and formal statements
+  author: Will Crichton
+  publication: Twitter
+  year: 2021
   link: https://twitter.com/wcrichton/status/1408277739438628867?s=12
   type: example
   tags:
     - color
     - annotation
 
-- description: Geometry line segement problem
+- title: Geometry line segement problem
+  author: Slim “Sarah” Lim
+  publication: Twitter
+  year: 2021
   link: https://twitter.com/sliminality/status/1408185560112398339?s=12
   type: example
   tags:
     - color
     - interactive graphics
 
-- description: Triangle solver
+- title: Triangle solver
+  author: Freya Holmér
+  publication: Personal Blog
+  year: 2021
   link: https://acegikmo.com/trianglesolver/
   type: example
   tags:
@@ -281,28 +401,40 @@
     - code
     - interactive graphics
 
-- description: Annotated LaTeX equations
+- title: Annotated LaTeX equations
+  author: Sibin Mohan
+  publication: Twitter
+  year: 2022
   link: https://twitter.com/sibinmohan/status/1480583840858996743
   type: example
   tags:
     - color
     - annotation
 
-- description: Equation formatting
+- title: Equation formatting
+  author: Amit Patel
+  publication: Red Blob Games
+  year: 2019
   link: https://www.redblobgames.com/x/1913-equation-formatting/
   type: collection
   tags:
     - color
     - annotation
 
-- description: PDEs and volume rendering thread
+- title: PDEs and volume rendering thread
+  author: Keenan Crane
+  publication: Twitter
+  year: 2022
   link: https://twitter.com/keenanisalive/status/1526156301994180609
   type: example
   tags:
     - color
     - annotation
 
-- description: Why momentum really works
+- title: Why momentum really works
+  author: Gabriel Gog
+  publication: Distill
+  year: 2017
   link: https://distill.pub/2017/momentum/
   type: article
   tags:
@@ -310,14 +442,20 @@
     - layout
     - opacity
 
-- description: Designs decisions for Distill equations
+- title: Design decisions for Distill equations
+  author: Chris Olah
+  publication: Github
+  year: 2017
   link: https://github.com/distillpub/post--momentum/issues/15
   type: example
   tags:
     - color
     - annotation
 
-- description: Paths perspective on value learning
+- title: Paths perspective on value learning
+  author: Sam Greydanus and Chris Olah
+  publication: Distill
+  year: 2019
   link: https://distill.pub/2019/paths-perspective-on-value-learning/
   type: example
   tags:
