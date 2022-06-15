@@ -144,12 +144,20 @@ img {
     padding: 0;
 }
 
-.example-where {
+.example-author {
     font-size: 0.75rem;
     font-weight: 600;
     color: $black-60;
-    // margin: 0;
-    // padding: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.example-publication {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: $black-40;
+    margin: 0;
+    padding: 0;
 }
 
 .example:hover {
@@ -157,9 +165,9 @@ img {
     transform: scale(1.03)
 }
 
-.example-image {
-    // height: 1rem;
-}
+// .example-image {
+//     height: 1rem;
+// }
 
 .example-image > img {
     border-radius: 0.5rem;
@@ -174,13 +182,20 @@ img {
 }
 
 .example-tag {
-    color: $black-70;
+    color: $black-60;
     font-size: 0.6rem;
-    font-weight: 500;
-    background-color: $black-05;
+    font-weight: 600;
+    background-color: #fff;
     border-radius: 0.25rem;
     padding: 0.15rem 0.4rem 0.15rem 0.4rem;
-    font-family: monospace;
+    // font-family: monospace;
+    // text-transform: uppercase;
+}
+
+.example-tag-broken-link {
+    color: rgb(255, 59, 48);
+    font-weight: 600;
+    border: 1px solid rgb(255, 59, 48);
 }
 
 .example-tag-link {
@@ -188,23 +203,6 @@ img {
     font-weight: 500;
     background-color: none;
     padding-left: 1rem;
-}
-
-@mixin word-wrap() {
-    overflow-wrap: break-word;
-    word-wrap: break-word;
-    -ms-word-break: break-all;
-    word-break: break-all;
-    word-break: break-word;
-    -ms-hyphens: auto;
-    -moz-hyphens: auto;
-    -webkit-hyphens: auto;
-    hyphens: auto;
-  }
-
-.example-link {
-    @include word-wrap();
-    font-size: 0.75rem;
 }
 
 .type-number {
@@ -220,6 +218,6 @@ img {
     }
 
     .example {
-        height: 8rem;
+        height: 10rem;
     }
 }
