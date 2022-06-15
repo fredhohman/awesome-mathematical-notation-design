@@ -31,3 +31,4 @@ bundle exec jekyll serve --livereload
 [symbolic-stage]: https://en.wikipedia.org/wiki/History_of_mathematical_notation#Symbolic_stage
 [github]: https://github.com/fredhohman/awesome-mathematical-notation-design
 [new-issue]: https://github.com/fredhohman/awesome-mathematical-notation-design/issues/new
+[website]: https://fredhohman.com/awesome-mathematical-notation-design/
