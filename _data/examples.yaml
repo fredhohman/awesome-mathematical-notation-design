@@ -461,3 +461,22 @@
   tags:
     - annotation
     - static graphics
+
+- title: How mathematicians think about four dimensions
+  author: hillexed
+  publication: Explanaria
+  year: 2019
+  link: https://explanaria.github.io/thinking4D/
+  type: example
+  tags:
+    - interactive graphics
+
+- title: The case of the impossible triangles
+  author: hillexed
+  publication: Explanaria
+  year: 2021
+  link: https://explanaria.github.io/impossibletriangles/
+  type: example
+  tags:
+    - color
+    - interactive graphics
