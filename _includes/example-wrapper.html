@@ -1,5 +1,5 @@
 {% assign papers = site.data.examples | where: "type", "paper" %}
-{% assign collections = site.data.examples | where: "type", "collection" %}
+{% assign collections = site.data.examples | where: "type", "collection" | sort: "title" %}
 {% assign articles = site.data.examples | where: "type", "article" | sort: "title" %}
 {% assign examples = site.data.examples | where: "type", "example" | sort: "title" %}
 
