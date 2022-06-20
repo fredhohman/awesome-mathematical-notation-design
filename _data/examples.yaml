@@ -480,3 +480,12 @@
   tags:
     - color
     - interactive graphics
+
+- title: Gallery of concept visualization
+  author: Joshua Horowitz
+  publication: Conceptviz
+  year: 2015
+  link: https://conceptviz.github.io/
+  type: collection
+  tags:
+    - interactive graphics
