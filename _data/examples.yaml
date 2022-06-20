@@ -489,3 +489,14 @@
   type: collection
   tags:
     - interactive graphics
+
+- title: Lessons from a year of distilling machine learning research
+  author: Shan Carter
+  publication: OpenVisConf
+  year: 2018
+  link: https://www.youtube.com/watch?v=jlZsgUZaIyY
+  type: article
+  tags:
+    - layout
+    - annotation
+    
