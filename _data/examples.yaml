@@ -500,3 +500,12 @@
     - layout
     - annotation
     
+- title: "Volume Rendering for Developers: Foundations"
+  author: Scratchapixel
+  publication: Scratchapixel
+  year: 2022
+  link: https://www.scratchapixel.com/lessons/3d-basic-rendering/volume-rendering-for-developers/volume-rendering-summary-equations
+  type: example
+  tags:
+    - color
+    - static graphic
