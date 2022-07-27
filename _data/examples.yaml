@@ -520,3 +520,14 @@
     - color
     - annotation
     - layout
+
+- title: Cutting out knots
+  author: Gary Dunkerley
+  publication: Personal blog
+  year: 2022
+  link: https://garydunkerley.github.io/files/slides/cutting_out_knots.pdf
+  type: example
+  tags:
+    - color
+    - static graphic
+    - layout
