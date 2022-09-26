@@ -563,3 +563,13 @@
     - color
     - layout
     - static graphic
+
+- title: Cheatsheet for Bayesian posterior predictions
+  author: Andrew Heiss
+  publication: Personal blog
+  year: 2022
+  link: https://www.andrewheiss.com/blog/2022/09/26/guide-visualizing-types-posteriors/#tldr-diagrams-and-cheat-sheets
+  type: example
+  tags:
+    - color
+    - annotation
