@@ -531,3 +531,14 @@
     - color
     - static graphic
     - layout
+
+- title: Machine learning flashcards
+  author: Chris Albon
+  publication: Machine Learning Flashcards
+  year: 2017
+  link: https://machinelearningflashcards.com
+  type: example
+  tags:
+    - color
+    - annotation
+    - hand-drawn graphic
