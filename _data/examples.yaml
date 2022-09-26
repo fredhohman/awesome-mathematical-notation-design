@@ -552,3 +552,14 @@
   tags:
     - color
     - pictogram
+
+- title: The singular value decomposition
+  author: Peter Bloem
+  publication: Personal blog
+  year: 2022
+  link: https://peterbloem.nl/blog/pca
+  type: example
+  tags:
+    - color
+    - layout
+    - static graphic
