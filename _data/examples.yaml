@@ -542,3 +542,13 @@
     - color
     - annotation
     - hand-drawn graphic
+
+- title: "Geometric visualization of Bayes' theorem"
+  author: Cmglee
+  publication: Wikipedia
+  year: 2022
+  link: https://en.wikipedia.org/wiki/Bayes%27_theorem#/media/File:Bayes_theorem_assassin.svg
+  type: example
+  tags:
+    - color
+    - pictogram
