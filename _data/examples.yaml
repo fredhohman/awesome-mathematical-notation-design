@@ -82,7 +82,7 @@
     - emoji
 
 - title: Predator and prey differential equation
-  author: 3blue1brown
+  author: 3Blue1Brown
   publication: Twitter
   year: 2019
   link: https://twitter.com/mbostock/status/1112460718723362816
@@ -573,3 +573,46 @@
   tags:
     - color
     - annotation
+
+- title: 3Blue1Brown
+  author: Grant Sanderson
+  publication: Youtube
+  year: 2015
+  link: https://www.youtube.com/c/3blue1brown
+  type: collection
+  tags:
+    - video
+    - color
+    - annotation
+
+- title: Manim
+  author: Grant Sanderson
+  publication: Github
+  year: 2015
+  link: https://github.com/3b1b/manim
+  type: collection
+  tags:
+    - video
+    - color
+    - annotation
+
+- title: Visual graphing tool examples
+  author: Geogebra
+  publication: Geogebra
+  year: 2001
+  link: https://www.geogebra.org/m/Jz9AP6m8
+  type: collection
+  tags:
+    - color
+    - annotation
+
+- title: "Visualizing quaternions: An explorable video series"
+  author: Grant Sanderson, Ben Eater
+  publication: Personal blog
+  year: 2018
+  link: https://eater.net/quaternions
+  type: example
+  tags:
+    - color
+    - video
+    - interactive graphics
