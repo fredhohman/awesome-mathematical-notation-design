@@ -616,3 +616,13 @@
     - color
     - video
     - interactive graphics
+
+- title: "Bulletproofs"
+  author: dalek cryptography
+  publication: Github
+  year: 2018
+  link: https://github.com/dalek-cryptography/bulletproofs
+  type: example
+  tags:
+    - color
+    - annotation
