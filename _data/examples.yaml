@@ -626,3 +626,14 @@
   tags:
     - color
     - annotation
+
+- title: "The art of linear algebra"
+  author: Kenji Hiranabe
+  publication: Github
+  year: 2021
+  link: https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/?tab=readme-ov-file
+  type: article
+  tags:
+    - color
+    - static graphic
+    - layout
