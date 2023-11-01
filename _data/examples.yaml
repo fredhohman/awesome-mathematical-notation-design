@@ -1,3 +1,14 @@
+- title: Formula formatting language
+  author: Zhiyuan Wu, Jiening Li, Kevin Ma, Hita Kambhamettu, Andrew Head
+  publication: ACM UIST
+  year: 2023
+  link: https://penn-hci.github.io/ffl/
+  type: paper
+  tags:
+    - code
+    - color
+    - annotation
+
 - title: Math augmentations
   author: Andrew Head, Amber Xie, and Marti A. Hearst
   publication: ACM CHI
