@@ -648,3 +648,14 @@
     - color
     - static graphic
     - layout
+
+- title: "VAE Explainer"
+  author: Donny Bertucci
+  publication: Github
+  year: 2024
+  link: https://xnought.github.io/vae-explainer/
+  type: article
+  tags:
+    - color
+    - code
+    - live model
