@@ -659,3 +659,14 @@
     - color
     - code
     - live model
+
+- title: "A Visual Guide to Quantization"
+  author: Maarten Grootendorst
+  publication: Github
+  year: Personal blog
+  link: https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization
+  type: example
+  tags:
+    - color
+    - static graphic
+    - annotation
